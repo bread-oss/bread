@@ -1,1 +1,1 @@
-bread does not know how to do smart stuff
+if smartscreen thing being stupid then just allow it
